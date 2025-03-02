@@ -6,7 +6,7 @@ const HomeScreen = ({ navigation }) => {
   return (
     <View >
     <Ai />
-          </View>
+    </View>
   );
 };
 
